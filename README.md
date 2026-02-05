@@ -3,7 +3,7 @@ This repository contains the design and control software for a 5-degree-of-freed
 
 The arm is currently coordinate controlled using an analytical inverse kinematics solver. Ongoing work focuses on extending the system to vision-based control and implementing pick-and-place operations.
 
-# Overview
+## Overview
 - 5 DOF serial manipulator
 - Designed completely in SolidWorks
 - 3D printed and assembled
